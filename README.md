@@ -1,4 +1,4 @@
-# Unsupervised Text Attribute Transfer via Iterative Matching and Translation (IMT)
+# Unsupervised Text Attribute Transfer via Iterative Matching and Translation (IMaT)
 
 
 - Enriched test set for Yelp: [Test Set (200 sentences with 5 human references)](https://github.com/zhijing-jin/IMT/tree/master/data/yelp/test)

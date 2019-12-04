@@ -7,7 +7,7 @@ There are some abbreviations in the above output files, which are explained here
 
 | Abbrev.       | meaning                                                      | example                                  |
 | ------------- | ------------------------------------------------------------ | ---------------------------------------- |
-| src           | source sentence (from the [test set](https://github.com/shentianxiao/language-style-transfer/blob/master/data/yelp/sentiment.test.0))            | she was not happy being there .           |
+| src           | source sentence (from the [test set](https://github.com/zhijing-jin/IMaT/tree/master/data/yelp/test))            | she was not happy being there .           |
 | ca            | Cross Alignment ([Shen et al., 2017](https://papers.nips.cc/paper/7259-style-transfer-from-non-parallel-text-by-cross-alignment.pdf)) | she was not happy to everyone .         |
 | multi_decoder | Multi-Decoder ([Fu et al., 2018](http://ruiyan.me/pubs/AAAI2018Fu.pdf)) | she was not happy of there .         |
 | style_emb     | Style-Embedding  ([Fu et al., 2018](http://ruiyan.me/pubs/AAAI2018Fu.pdf)) | she was not sucks cooked go there .              |

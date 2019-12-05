@@ -7,7 +7,7 @@
 
 Our paper is accepted by EMNLP 2019 (long paper): 
 
-[IMaT: nsupervised Text Attribute Transfer via Iterative Matching and Translation](https://arxiv.org/abs/1901.11333). 
+[IMaT: Unsupervised Text Attribute Transfer via Iterative Matching and Translation](https://www.aclweb.org/anthology/D19-1306.pdf). 
 Zhijing Jin∗, Di Jin∗, Jonas Mueller, Nicholas Matthews, and Enrico Santus. 
 
 

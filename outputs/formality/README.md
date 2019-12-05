@@ -1,7 +1,7 @@
 Here are the outputs of all 5 models in two directions:
 
-- Formal -> Informal: [all_model_outputs.0](all_model_outputs.0)
-- Informal -> Formal: [all_model_outputs.1](all_model_outputs.1) (Note: "1" refers to formal, and "0" informal.)
+- Informal -> Formal: [all_model_outputs.0](all_model_outputs.0)
+- Formal -> Informal: [all_model_outputs.1](all_model_outputs.1) (Note: "1" refers to formal, and "0" informal.)
 
 There are some abbreviations in the above output files, which are explained here:
 
@@ -18,6 +18,6 @@ There are some abbreviations in the above output files, which are explained here
 
 |                                                     | # sentences (Original) | # sentences (Unique) |
 | --------------------------------------------------- | ---------------------- | -------------------- |
-| Formal -> Informal (see [test.uniq.0](test.uniq.0)) | 2748                   | 2741                 |
-| Informal -> Formal (see [test.uniq.1](test.uniq.1)) | 2701                   | 2700                 |
+| Informal -> Formal (see [test.uniq.0](test.uniq.0)) | 2748                   | 2741                 |
+| Formal -> Informal (see [test.uniq.1](test.uniq.1)) | 2701                   | 2700                 |
 
